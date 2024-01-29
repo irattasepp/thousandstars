@@ -1,6 +1,6 @@
 # ThousandStars
 
-ThousandStars is a typeface I created for my school projects (ascii-art, ascii-ar-web).
+ThousandStars is a typeface I created for my school projects at kood/Jõhvi.
 
 ## Usage
 
@@ -19,7 +19,7 @@ To use ThousandStars in your ASCII art or web projects:
 3. Give Credit:
     - If you find ThousandStars useful, please provide credit in your project documentation or credits section.
 
-### Example
+![happy_coding](./img/happy_coding.png)
 
 ## License
 
